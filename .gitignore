@@ -361,3 +361,18 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+calc_ver.1/*
+!calc_ver.1/calc_ver.1.cs
+
+calc_ver.2/*
+!calc_ver.2/calc_ver.2.cs
+
+calc.sln
+
+.gitattributes
+
+
+
+
