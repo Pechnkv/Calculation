@@ -370,7 +370,7 @@ calc_ver.2/*
 !calc_ver.2/calc_ver.2.cs
 
 calc.sln
-
+*.csproj
 .gitattributes
 
 
